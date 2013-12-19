@@ -1,4 +1,4 @@
 IrRemote
 ========
 
-Ir remote test project for Lutron Maestro switches
+Android IR remote test project for Lutron Maestro switches. Works with Samsung Galaxy devices that have IR capability.
